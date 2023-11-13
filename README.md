@@ -23,7 +23,7 @@ To use this tool, you need:
 - Python environment with required libraries (`requests`, `json`, `base64`, `sympy`).
 
 ## Installation and Usage
-1. **Clone the Repository**: `git clone [https://github.com/chenjohnnie/Math-OCR-for-TAMU-Tidal-Hackathon/]`.
+1. **Clone the Repository**: `git clone [[https://github.com/chenjohnnie/Math-OCR-for-TAMU-Tidal-Hackathon/](https://github.com/chenjohnnie/Math-OCR-for-TAMU-Tidal-Hackathon)]`.
 2. **Install Dependencies**: `pip install requests sympy`.
 3. **Set Up API Credentials**: Replace `MATHPIX_APP_ID` and `MATHPIX_APP_KEY` with your Mathpix credentials.
 4. **Run the Script**: Use the provided functions in your Python environment to process images. Will need to create your own folder and script to handle batch images
